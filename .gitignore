@@ -1,0 +1,5 @@
+.dccache
+.vscode
+server/config.json
+*.exe
+*.log

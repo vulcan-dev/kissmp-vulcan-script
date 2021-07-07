@@ -1,0 +1,17 @@
+{
+    "log": {
+        "verbose": false,
+        "file": false
+    },
+
+    "options": {
+        "kick_unknown": true,
+        "whitelist_all": true,
+        "command_prefix": "/",
+        "player_location": "./addons/vulcan-script/settings/",
+        "colour_location": "./addons/vulcan-script/settings/",
+        "extensions": ["vulcan_moderation"],
+        "discord_link": "https://discord.gg/xwKu8prVtz",
+        "patreon_link": ""
+    }
+}
